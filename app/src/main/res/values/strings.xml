@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">calc</string>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string name="result">Result will be here</string>
+    <string name="sumbutton">X+Y</string>
+    <string name="subtractbutton">X-Y</string>
+    <string name="multiplybutton">X*Y</string>
+    <string name="divisionbutton">X/Y</string>
+    <string name="binarybutton">Binary digits</string>
+    <string name="modbutton">X mod Y</string>
+    <string name="xorbutton">X xor Y</string>
+    <string name="resulttext">Result</string>
+    <string name="XandY">X and Y</string>
+    <string name="xorybutt">X or Y</string>
+    <string name="noxbutt">No X</string>
+
+
+</resources>
